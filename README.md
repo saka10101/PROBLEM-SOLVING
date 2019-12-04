@@ -1,5 +1,6 @@
 # PROBLEM_SOLVING
-This repository consists some interesting problems from variety of sources that can be solved by writing a program 
+This repository consists some interesting problems links from variety of sources that can be solved by writing a program .Also there is 
+ the solution program for those problems 
 (Programming languages used to solve problems: java8, python3, C++)
 
 
