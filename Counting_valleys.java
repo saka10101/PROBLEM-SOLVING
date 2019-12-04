@@ -20,10 +20,6 @@ public class Solution {
         We need to Iterate over the ups and downs keeping track of 
         the distance from sea level and whenever the transition is made 
         update the tracks correspondingly.Here we used valleycount,sealevel,upcount and downcount as tracker variables
-         
-
-
-
 
         */
         
