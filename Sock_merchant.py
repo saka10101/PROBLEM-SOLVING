@@ -17,9 +17,8 @@ import sys
 def sockMerchant(n, ar):
 
      """-Thougths
-       We can realize the large pile of sock into key value pair structure where keys represents the type of sock (ie integer number representation of sock) and value the count of the particular sock.
-        finally we can determine if there are pairs of socks present and count it 
-
+       We can realize the large pile of sock into key value pair structure ie dictionary where keys represents the type of sock (ie integer number representation of sock) and value the count of the particular sock.
+        finally we can determine if there are pairs of socks present and count it using counter variable
      """
 
     pairscount=0
