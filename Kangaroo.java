@@ -18,11 +18,11 @@ public class Solution {
     static String kangaroo(int x1, int v1, int x2, int v2) {
         
      /*  --STATEGY--
-     Suppose they must make the same number of jumps 'n'. Representing in algebraic form
+     Suppose they finally must make the same number of jumps 'n'. Representing in algebraic form
                
                    v1*n+x1=v2*n+x2....................(i)
                    n=(x2-x1)/(v1-v2)
-             where n integer value
+                    where n is integer value
      */
 
 if(v1>v2)
