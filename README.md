@@ -1,6 +1,7 @@
 # PROBLEM_SOLVING
-This repository consists some interesting problems links from variety of sources that can be solved by writing a program .Also there is 
- the solution program for those problems 
+This repository consists of solution programs to some interesting problems from variety of sources
+
+(Problems collection sources includes hackerrank,codeforces,project euler)
 (Programming languages used to solve problems includes java8, python3, C++)
 
 The title and link to problem statement is at the beginning of the code.
