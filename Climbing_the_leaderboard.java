@@ -17,12 +17,8 @@ public class Solution {
 
     /*
       Thoughts:
-         Here we can convert the scores array into the array with same score repeated only once and then use binary search to find the rank of alice scores in that score repeated once array
-
-
-
-
-
+         Here we can convert the scores array into the array with same score repeated only once and then use binary search to find the rank of alice scores in that score repeated once array 
+         Always remember to consider the performance (complexity) in case of larger input sets 
     */
 
    
