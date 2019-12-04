@@ -3,9 +3,7 @@ This repository consists some interesting problems links from variety of sources
  the solution program for those problems 
 (Programming languages used to solve problems: java8, python3, C++)
 
-
-The link to problem statement is at the beginning of the code
-
+The title and link to problem statement is at the beginning of the code.
 
 The brief description to solution approach or stategy is inside the solution class or function
 
