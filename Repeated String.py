@@ -1,5 +1,5 @@
 """
-Problem Title :Encryption
+Problem Title :Repeated String
 Problem Statement: https://www.hackerrank.com/challenges/repeated-string/problem
 Coding language : python 3
 
