@@ -20,7 +20,7 @@ def checkMagazine(magazine, note):
 
     #Thoughts :
     ''' Using dictionaries makes the solution easier 
-    1.Convert both lists into maps or dictionary(note_map&magazine_map) with key as word and value as no of words count in that list
+    1.Convert both string inputs into maps or dictionary(note_map&magazine_map) with key as word and value as no of words count in that list
     2.Check if note map is subset of magazine map or if values present in magazine_map for words in notes is greater than that in note_map and count that occurance(see code below) and return desired result
     '''
     note_map=dict()
