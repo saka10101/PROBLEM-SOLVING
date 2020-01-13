@@ -32,7 +32,7 @@ def makeAnagram(a, b):
     Approach:
     1.Convert the strings into map with each character's frequency count ,here frequency_map() does this
     2.Now compare these two maps and get result
-     - Use frequency difference tracker to calculate the difference between frequencies count, here deletes_count does this work
+     - Use a tracker to calculate no of characters to be deleted in particular string(here we have two of them), in the code deletes_count does this work
      - Check if same key lies in those both maps and update the difference accordingly
         - if yes find out not of char to be deleted in context of particular string fmap ,here for this we can utilize max(0,exp) way 
         - if not add delete all those char counts in the particular map 
