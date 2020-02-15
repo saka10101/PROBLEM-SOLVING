@@ -1,7 +1,7 @@
 # PROBLEM_SOLVING
 This repository consists of solution programs to some interesting problems from variety of sources
 
-(Problems collection sources includes hackerrank,codeforces,project euler)
+(Problems collection sources includes hackerrank,codeforces,project euler and many more interesting puzzles)
 
 
 
